@@ -1,0 +1,68 @@
+body{
+    background-color:rgba(83,83,133,1);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+div{
+    background-color: rgba(83,83,133,0.5);
+    margin-right: 20%;
+    margin-left: 20%;
+}
+
+h1{
+    text-align: center;
+    text-decoration: underline;  
+}
+
+h3{
+    font-family: fantasy;
+}
+
+a:visited{
+    color: black;
+}
+
+a:link{
+    color: black;
+}
+
+a:hover{
+    color: cyan;
+}
+
+button{
+    color:red;
+    background-color: dimgray;
+    width: 3%;   
+    float: right;
+    margin-bottom: 10%;
+    margin-right: 10%;
+    text-decoration: none;      
+}
+
+button:hover{
+    background-color: darkslategrey;
+}
+
+img{
+    width: 20%;
+    height: 20%;
+    padding-right: 5%;
+    padding-top: 5%;
+    float: left;
+}
+
+table{
+    width: 80%;
+    background-color: darksalmon;
+}
+
+td{
+    padding: 15px;
+}
+
+th{
+    padding: 15px;
+}
