@@ -1,0 +1,26 @@
+body{
+    background-image: url(Media/Fondo.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+h5{
+    text-align: center;
+    text-decoration:underline;
+}
+img{
+    padding-bottom: 3%;
+    padding-top: 5%;
+}
+.card{
+    font-family: fantasy;
+    font-size: medium;
+    text-align: center;
+    text-decoration: dotted;
+    margin: 3%;
+}
